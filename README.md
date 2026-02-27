@@ -28,7 +28,7 @@ Inicio (Elegir Ruta 1 o 2): Mike oye un ruido extraño que viene del bosque.
                 - Regresar
                 - Final Neutro
         - Ruta 2b (Parque):
-            - Ruta 2b1
+            - Ruta 2b1 (Callejón)
                 - Regresar
                 - Final Malo
             - Ruta 2b2
