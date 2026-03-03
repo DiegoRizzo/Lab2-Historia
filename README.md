@@ -8,19 +8,19 @@ This is the story of a cat named 'Mike'. Mike is a stray cat who roams the stree
 
         - Ruta 1a (Camino a Cabaña): En camino a la cabaña, te empieza a perseguir un gran animal.
 
-            - Ruta 1a1 (Quedarte en la cabaña): Estás seguro que esto es lo que quieres hacer?
+            - Ruta 1a1 (Escabullirte en la cabaña): Estás seguro que esto es lo que quieres hacer?
 
                 - Regresar a Camino a Cabaña
 
                 - Sí (Final Bueno): La familia que vive adentro de la cabaña te adopta.
 
-            - Ruta 1a2 (Regresar a la colonia): Estás seguro que esto es lo que quieres hacer?
+            - Ruta 1a2 (Escapar del bosque): Estás seguro que esto es lo que quieres hacer?
 
                 - No (Regresar a Camino a Cabaña)
 
                 - Sí (Final Neutro): Regresas a tu vida normal en la colonia, aunque con algunos rasguños.
 
-        - Ruta 1b (Barranco): 
+        - Ruta 1b (Barranco): Te estás acercando al ruido. Te percatas que el sonido viene del barranco. Qué haces?
 
             - Ruta 1b1 (Ir más profundo): Estás seguro que esto es lo que quieres hacer?
 
@@ -36,7 +36,7 @@ This is the story of a cat named 'Mike'. Mike is a stray cat who roams the stree
 
     - Ruta 2 (Huír): En la ciudad, vas a los apartamentos o al parque?
 
-        - Ruta 2a (Apartamentos): 
+        - Ruta 2a (Apartamentos): En la cuadra, ves a un hombre caminando hacia su edificio y ves una familia de gatos. Qué haces?
 
             - Ruta 2a1 (Acompañar al hombre): Estás seguro que esto es lo que quieres hacer?
 
@@ -50,19 +50,19 @@ This is the story of a cat named 'Mike'. Mike is a stray cat who roams the stree
 
                 - Sí (Final Neutro): Con tu nueva familia de gatos, los acompañas a vivir en las calles de la ciudad.
 
-        - Ruta 2b (Parque):
+        - Ruta 2b (Parque): En el parque, ves a lo lejos a un hombre caminando y ves una familia de gatos. Qué haces?
 
-            - Ruta 2b1 (Callejón): Estás seguro que esto es lo que quieres hacer?
-
-                - No (Regresar a Parque)
-
-                - Sí (Final Malo):
-
-            - Ruta 2b2: Estás seguro que esto es lo que quieres hacer?
+            - Ruta 2b1 (Acompañar al hombre): Estás seguro que esto es lo que quieres hacer?
 
                 - No (Regresar a Parque)
 
-                - Sí (Final Neutro):
+                - Sí (Final Malo): El hombre de Control Animal dispara un dardo tranquilizador, llevándote al refugio de animales.
+
+            - Ruta 2b2 (Acompañar a gatos): Estás seguro que esto es lo que quieres hacer?
+
+                - No (Regresar a Parque)
+
+                - Sí (Final Neutro): Con tu nueva familia de gatos, los acompañas a vivir en las calles de la ciudad.
 
 Finales:
 - Final bueno: Mike encuentra una familia que se hará cargo de él.
